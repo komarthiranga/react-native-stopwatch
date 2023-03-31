@@ -11,7 +11,8 @@ const Card = ({ children }) => {
 
 const styles = StyleSheet.create({
     container: {
-        margin: 24,
+        marginVertical: 54,
+        marginHorizontal: 19,
         padding: 24,
         justifyContent: 'center',
         alignItems: 'center',
